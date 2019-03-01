@@ -1,7 +1,6 @@
-# File:         proj1.py
+# File:         game_of_life.py
 # Author:       Abbey Moran
 # Date:         11/16/15
-# Section:      18
 # E-mail:       moran3@umbc.edu
 # Description:  This program will create a version of "Conway's Game of Life".
 #               The user will input how big the board is, which cells of 
